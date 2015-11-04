@@ -9,7 +9,7 @@ from git import Repo, InvalidGitRepositoryError
 
 YOLO_TAG_REGEX = re.compile(
     '[ \t]*(#|(/\*)|(//)|(\<\!\-\-)) yolo, (?P<reason>[^\n]*)')
-SORRY_TAG_REGEX = re.compile('[ \t]*(#|(/\*)|(\<\!\-\-)) sorry')
+SORRY_TAG_REGEX = re.compile('[ \t]*(#|(/\*)|(//)|(\<\!\-\-)) sorry')
 
 
 def main():
