@@ -7,13 +7,14 @@ import simplejson as json
 
 from git import Repo, InvalidGitRepositoryError
 
-YOLO_TAG_REGEX = re.compile('[ \t]*(#|(/\*)|(//)|(\<\!\-\-)) yolo, (?P<reason>[^\n]*)')
+YOLO_TAG_REGEX = re.compile(
+    '[ \t]*(#|(/\*)|(//)|(\<\!\-\-)) yolo, (?P<reason>[^\n]*)')
 SORRY_TAG_REGEX = re.compile('[ \t]*(#|(/\*)|(\<\!\-\-)) sorry')
 
 
 def main():
     options = get_options()
-    yolo_results = [yolo(sourcefile, **vars(options))
+    yolo_results = [yolo(sourcefile)
                     for sourcefile in options.sourcefiles]
 
     if len(yolo_results) is 1:
@@ -41,12 +42,17 @@ def get_options():
 
 
 # yolo, we can decide field names later
-def yolo(filename, **options):
+def yolo(filename):
 
     with open(filename, 'rb') as sourcefile:
 
         yolo_blocks = find_yolo_blocks(sourcefile)
         repo = find_git_repo(filename)
+
+        yolo_data = {
+            'yolo_blocks': yolo_blocks,
+            'yolo_count': len(yolo_blocks)
+        }
 
         if repo:
             blame_data = get_blame_data(repo, 'HEAD', filename)
@@ -55,11 +61,10 @@ def yolo(filename, **options):
                 for line_info in yolo_block['lines']:
                     line_info['blame'] = blame_data[line_info['line_number']]
 
-    return {
-        'authors': list(set(commit.author for commit in blame_data.values())),
-        'yolo_blocks': yolo_blocks,
-        'yolo_count': len(yolo_blocks)
-    }
+            yolo_data['authors'] = list(set(commit.author
+                                            for commit in blame_data.values()))
+
+    return yolo_data
 # sorry
 
 
