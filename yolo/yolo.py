@@ -161,7 +161,8 @@ class GitObjectEncoder(json.JSONEncoder):
             return [self.default(o) for o in obj]
         if hasattr(obj, '__slots__'):
             data = {key: getattr(obj, key)
-                    for key in obj.__slots__ if hasattr(obj, key)}
+                    for key in obj.__slots__ if hasattr(obj, key) and
+                    key not in ('parents',)}
             return data
         else:
             return super(GitObjectEncoder, self).default(obj)
