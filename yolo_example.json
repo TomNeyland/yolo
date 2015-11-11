@@ -7,7 +7,7 @@
     ],
     "yolo_blocks": [
         {
-            "end_line_number": 40,
+            "end_line_number": 37,
             "lines": [
                 {
                     "blame": {
@@ -15,38 +15,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "def get_options():\n",
@@ -58,38 +37,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "    options_parser = configargparse.ArgParser(\n",
@@ -101,38 +59,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "        default_config_files=['./.yolorc'])\n",
@@ -144,38 +81,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "\n",
@@ -187,38 +103,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "    options_parser.add('-c', '--config', required=False, is_config_file=True,\n",
@@ -230,38 +125,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "                       env_var='YOLO_CONFIG', help='config file path')\n",
@@ -273,38 +147,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "\n",
@@ -316,41 +169,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "    options_parser.add('--repo', default='./', required=False,\n",
+                    "line": "    options_parser.add('sourcefiles', nargs='+',\n",
                     "line_number": 34
                 },
                 {
@@ -359,41 +191,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                       help='the git repo running yolo on')\n",
+                    "line": "                       help='the sourcefile(s) to run yolo on')\n",
                     "line_number": 35
                 },
                 {
@@ -402,38 +213,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "\n",
@@ -445,178 +235,28 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "    options_parser.add('sourcefiles', nargs='+',\n",
-                    "line_number": 37
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "                       help='the sourcefile(s) to run yolo on')\n",
-                    "line_number": 38
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "\n",
-                    "line_number": 39
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "    return options_parser.parse_args()\n",
-                    "line_number": 40
+                    "line_number": 37
                 }
             ],
             "reason": "these options are just mocked up",
             "start_line_number": 27
         },
         {
-            "end_line_number": 67,
+            "end_line_number": 54,
             "lines": [
                 {
                     "blame": {
@@ -624,61 +264,86 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "def yolo(filename):\n",
+                    "line": "def yolo(source_lines):\n",
+                    "line_number": 42
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "\n",
+                    "line_number": 43
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
+                        "tree": {}
+                    },
+                    "line": "    if isinstance(source_lines, (basestring,)):\n",
+                    "line_number": 44
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
+                        "tree": {}
+                    },
+                    "line": "        source_lines = source_lines.split('\\n')\n",
                     "line_number": 45
                 },
                 {
@@ -687,38 +352,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
                     "line": "\n",
@@ -730,41 +374,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "    with open(filename, 'rb') as sourcefile:\n",
+                    "line": "    yolo_blocks = find_yolo_blocks(source_lines)\n",
                     "line_number": 47
                 },
                 {
@@ -773,38 +396,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "\n",
@@ -816,41 +418,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "        yolo_blocks = find_yolo_blocks(sourcefile)\n",
+                    "line": "    yolo_data = {\n",
                     "line_number": 49
                 },
                 {
@@ -859,41 +440,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "        repo = find_git_repo(filename)\n",
+                    "line": "        'yolo_blocks': yolo_blocks,\n",
                     "line_number": 50
                 },
                 {
@@ -902,41 +462,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "\n",
+                    "line": "        'yolo_count': len(yolo_blocks)\n",
                     "line_number": 51
                 },
                 {
@@ -945,61 +484,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "        yolo_data = {\n",
+                    "line": "    }\n",
                     "line_number": 52
                 },
                 {
@@ -1008,61 +506,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "            'yolo_blocks': yolo_blocks,\n",
+                    "line": "\n",
                     "line_number": 53
                 },
                 {
@@ -1071,748 +528,28 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "            'yolo_count': len(yolo_blocks)\n",
-                    "line_number": 54
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "        }\n",
-                    "line_number": 55
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "\n",
-                    "line_number": 56
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "        if repo:\n",
-                    "line_number": 57
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "            blame_data = get_blame_data(repo, 'HEAD', filename)\n",
-                    "line_number": 58
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "            line_number = 1\n",
-                    "line_number": 59
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "            for yolo_block in yolo_blocks:\n",
-                    "line_number": 60
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "                for line_info in yolo_block['lines']:\n",
-                    "line_number": 61
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "                    line_info['blame'] = blame_data[line_info['line_number']]\n",
-                    "line_number": 62
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "\n",
-                    "line_number": 63
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "            yolo_data['authors'] = list(set(commit.author\n",
-                    "line_number": 64
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "                                            for commit in blame_data.values()))\n",
-                    "line_number": 65
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "\n",
-                    "line_number": 66
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618475,
-                        "committed_date": 1446618475,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "wip: minor tweaks to... everything",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446618025,
-                                "committed_date": 1446618025,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "feat: adds yolo parser prototype",
-                                "parents": [
-                                    {
-                                        "author": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "author_tz_offset": 28800,
-                                        "authored_date": 1446617890,
-                                        "committed_date": 1446617890,
-                                        "committer": {
-                                            "email": "tcneyland+github@gmail.com",
-                                            "name": "Tom Neyland"
-                                        },
-                                        "committer_tz_offset": 28800,
-                                        "encoding": "UTF-8",
-                                        "gpgsig": null,
-                                        "message": "Initial commit\n",
-                                        "parents": [],
-                                        "tree": {}
-                                    }
-                                ],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
                     "line": "    return yolo_data\n",
-                    "line_number": 67
+                    "line_number": 54
                 }
             ],
             "reason": "we can decide field names later",
-            "start_line_number": 45
+            "start_line_number": 42
         },
         {
-            "end_line_number": 109,
+            "end_line_number": 61,
             "lines": [
                 {
                     "blame": {
@@ -1820,471 +557,49 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "def find_yolo_blocks(sourcefile):\n",
-                    "line_number": 72
-                },
+                    "line": "    repo = find_git_repo(filename)\n",
+                    "line_number": 61
+                }
+            ],
+            "reason": "this means we assume the file is checked in... hahaha",
+            "start_line_number": 61
+        },
+        {
+            "end_line_number": 119,
+            "lines": [
                 {
                     "blame": {
                         "author": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "\n",
-                    "line_number": 73
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "    yolo_blocks = []\n",
-                    "line_number": 74
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "\n",
-                    "line_number": 75
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "    source_lines = enumerate(sourcefile, 1)\n",
-                    "line_number": 76
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "\n",
-                    "line_number": 77
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "    for line_number, source_line in source_lines:\n",
-                    "line_number": 78
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "\n",
-                    "line_number": 79
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "        if is_yolo_tag(source_line):\n",
-                    "line_number": 80
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "\n",
-                    "line_number": 81
-                },
-                {
-                    "blame": {
-                        "author": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
-                        "committer": {
-                            "email": "tcneyland+github@gmail.com",
-                            "name": "Tom Neyland"
-                        },
-                        "committer_tz_offset": 28800,
-                        "encoding": "UTF-8",
-                        "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
-                        "tree": {}
-                    },
-                    "line": "            reason = YOLO_TAG_REGEX.match(source_line).groupdict()['reason']\n",
+                    "line": "def find_yolo_blocks(source_lines):\n",
                     "line_number": 82
                 },
                 {
@@ -2293,41 +608,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "            start_line_number = line_number + 1\n",
+                    "line": "\n",
                     "line_number": 83
                 },
                 {
@@ -2336,41 +630,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "\n",
+                    "line": "    yolo_blocks = []\n",
                     "line_number": 84
                 },
                 {
@@ -2379,41 +652,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "            # start grabbing the yoloed lines, look for a sorry tag\n",
+                    "line": "\n",
                     "line_number": 85
                 },
                 {
@@ -2422,41 +674,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447217912,
+                        "committed_date": 1447217912,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "feat: allows yolo to be used on a string\nPreviously only operated on files\n",
                         "tree": {}
                     },
-                    "line": "            yoloed_lines = []\n",
+                    "line": "    source_lines = enumerate(source_lines, 1)\n",
                     "line_number": 86
                 },
                 {
@@ -2465,38 +696,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "\n",
@@ -2508,41 +718,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "            for yoloed_line_number, yoloed_line in source_lines:\n",
+                    "line": "    for line_number, source_line in source_lines:\n",
                     "line_number": 88
                 },
                 {
@@ -2551,38 +740,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "\n",
@@ -2594,41 +762,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                if is_sorry_tag(yoloed_line):\n",
+                    "line": "        if is_yolo_tag(source_line):\n",
                     "line_number": 90
                 },
                 {
@@ -2637,38 +784,17 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "\n",
@@ -2680,41 +806,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                    end_line_number = yoloed_line_number - 1\n",
+                    "line": "            reason = YOLO_TAG_REGEX.match(source_line).groupdict()['reason']\n",
                     "line_number": 92
                 },
                 {
@@ -2723,41 +828,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "\n",
+                    "line": "            start_line_number = line_number + 1\n",
                     "line_number": 93
                 },
                 {
@@ -2766,41 +850,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                    yolo_blocks.append({\n",
+                    "line": "\n",
                     "line_number": 94
                 },
                 {
@@ -2809,41 +872,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                        'reason': reason,\n",
+                    "line": "            # start grabbing the yoloed lines, look for a sorry tag\n",
                     "line_number": 95
                 },
                 {
@@ -2852,41 +894,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                        'start_line_number': start_line_number,\n",
+                    "line": "            yoloed_lines = []\n",
                     "line_number": 96
                 },
                 {
@@ -2895,41 +916,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                        'end_line_number': end_line_number,\n",
+                    "line": "\n",
                     "line_number": 97
                 },
                 {
@@ -2938,41 +938,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                        'lines': yoloed_lines\n",
+                    "line": "            for yoloed_line_number, yoloed_line in source_lines:\n",
                     "line_number": 98
                 },
                 {
@@ -2981,41 +960,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                    })\n",
+                    "line": "\n",
                     "line_number": 99
                 },
                 {
@@ -3024,41 +982,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "\n",
+                    "line": "                if is_sorry_tag(yoloed_line):\n",
                     "line_number": 100
                 },
                 {
@@ -3067,41 +1004,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                    break  # back to looking for yolo tags\n",
+                    "line": "\n",
                     "line_number": 101
                 },
                 {
@@ -3110,41 +1026,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "\n",
+                    "line": "                    end_line_number = yoloed_line_number - 1\n",
                     "line_number": 102
                 },
                 {
@@ -3153,41 +1048,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                else:\n",
+                    "line": "\n",
                     "line_number": 103
                 },
                 {
@@ -3196,41 +1070,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                    yoloed_lines.append({\n",
+                    "line": "                    yolo_blocks.append({\n",
                     "line_number": 104
                 },
                 {
@@ -3239,41 +1092,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                        'line': yoloed_line,\n",
+                    "line": "                        'reason': reason,\n",
                     "line_number": 105
                 },
                 {
@@ -3282,41 +1114,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                        'line_number': yoloed_line_number\n",
+                    "line": "                        'start_line_number': start_line_number,\n",
                     "line_number": 106
                 },
                 {
@@ -3325,41 +1136,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "                    })\n",
+                    "line": "                        'end_line_number': end_line_number,\n",
                     "line_number": 107
                 },
                 {
@@ -3368,41 +1158,20 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
-                    "line": "\n",
+                    "line": "                        'lines': yoloed_lines\n",
                     "line_number": 108
                 },
                 {
@@ -3411,47 +1180,246 @@
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "author_tz_offset": 28800,
-                        "authored_date": 1446618025,
-                        "committed_date": 1446618025,
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
                         "committer": {
                             "email": "tcneyland+github@gmail.com",
                             "name": "Tom Neyland"
                         },
-                        "committer_tz_offset": 28800,
+                        "committer_tz_offset": 0,
                         "encoding": "UTF-8",
                         "gpgsig": null,
-                        "message": "feat: adds yolo parser prototype",
-                        "parents": [
-                            {
-                                "author": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "author_tz_offset": 28800,
-                                "authored_date": 1446617890,
-                                "committed_date": 1446617890,
-                                "committer": {
-                                    "email": "tcneyland+github@gmail.com",
-                                    "name": "Tom Neyland"
-                                },
-                                "committer_tz_offset": 28800,
-                                "encoding": "UTF-8",
-                                "gpgsig": null,
-                                "message": "Initial commit\n",
-                                "parents": [],
-                                "tree": {}
-                            }
-                        ],
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "                    })\n",
+                    "line_number": 109
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "\n",
+                    "line_number": 110
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "                    break  # back to looking for yolo tags\n",
+                    "line_number": 111
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "\n",
+                    "line_number": 112
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "                else:\n",
+                    "line_number": 113
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "                    yoloed_lines.append({\n",
+                    "line_number": 114
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "                        'line': yoloed_line,\n",
+                    "line_number": 115
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "                        'line_number': yoloed_line_number\n",
+                    "line_number": 116
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "                    })\n",
+                    "line_number": 117
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "\n",
+                    "line_number": 118
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
                         "tree": {}
                     },
                     "line": "    return yolo_blocks\n",
-                    "line_number": 109
+                    "line_number": 119
                 }
             ],
             "reason": "wip implementation",
-            "start_line_number": 72
+            "start_line_number": 82
         }
     ],
-    "yolo_count": 3
+    "yolo_count": 4
 }
