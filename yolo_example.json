@@ -1419,7 +1419,278 @@
             ],
             "reason": "wip implementation",
             "start_line_number": 82
+        },
+        {
+            "end_line_number": 169,
+            "lines": [
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "class GitObjectEncoder(json.JSONEncoder):\n",
+                    "line_number": 158
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "\n",
+                    "line_number": 159
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "    def default(self, obj):\n",
+                    "line_number": 160
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "        if isinstance(obj, (set,)):\n",
+                    "line_number": 161
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "            return [self.default(o) for o in obj]\n",
+                    "line_number": 162
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "        if hasattr(obj, '__slots__'):\n",
+                    "line_number": 163
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "            data = {key: getattr(obj, key)\n",
+                    "line_number": 164
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447218832,
+                        "committed_date": 1447218832,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "fix: Prevents the GitObjectEncoder from encoding parent trees\n",
+                        "tree": {}
+                    },
+                    "line": "                    for key in obj.__slots__ if hasattr(obj, key) and\n",
+                    "line_number": 165
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447218832,
+                        "committed_date": 1447218832,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "fix: Prevents the GitObjectEncoder from encoding parent trees\n",
+                        "tree": {}
+                    },
+                    "line": "                    key not in ('parents',)}\n",
+                    "line_number": 166
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "            return data\n",
+                    "line_number": 167
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "        else:\n",
+                    "line_number": 168
+                },
+                {
+                    "blame": {
+                        "author": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "author_tz_offset": 0,
+                        "authored_date": 1447216762,
+                        "committed_date": 1447216762,
+                        "committer": {
+                            "email": "tcneyland+github@gmail.com",
+                            "name": "Tom Neyland"
+                        },
+                        "committer_tz_offset": 0,
+                        "encoding": "UTF-8",
+                        "gpgsig": null,
+                        "message": "chore: adds cookiecutter pypackage generated files\nCredit https://github.com/audreyr/cookiecutter-pypackage\n",
+                        "tree": {}
+                    },
+                    "line": "            return super(GitObjectEncoder, self).default(obj)\n",
+                    "line_number": 169
+                }
+            ],
+            "reason": "this encoder is so verbose... its mostly proof of concept",
+            "start_line_number": 158
         }
     ],
-    "yolo_count": 4
+    "yolo_count": 5
 }
