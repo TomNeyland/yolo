@@ -57,7 +57,9 @@ def yolo(source_lines):
 
 def yolo_file(filename):
 
+    # yolo, this means we assume the file is checked in... hahaha
     repo = find_git_repo(filename)
+    # sorry
 
     with open(filename, 'rb') as sourcefile:
         yolo_data = yolo(sourcefile)
