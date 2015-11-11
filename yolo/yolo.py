@@ -14,7 +14,7 @@ SORRY_TAG_REGEX = re.compile('[ \t]*(#|(/\*)|(//)|(\<\!\-\-)) sorry')
 
 def main():
     options = get_options()
-    yolo_results = [yolo(sourcefile)
+    yolo_results = [yolo_file(sourcefile)
                     for sourcefile in options.sourcefiles]
 
     if len(yolo_results) is 1:
@@ -31,9 +31,6 @@ def get_options():
     options_parser.add('-c', '--config', required=False, is_config_file=True,
                        env_var='YOLO_CONFIG', help='config file path')
 
-    options_parser.add('--repo', default='./', required=False,
-                       help='the git repo running yolo on')
-
     options_parser.add('sourcefiles', nargs='+',
                        help='the sourcefile(s) to run yolo on')
 
@@ -42,17 +39,29 @@ def get_options():
 
 
 # yolo, we can decide field names later
-def yolo(filename):
+def yolo(source_lines):
+
+    if isinstance(source_lines, (basestring,)):
+        source_lines = source_lines.split('\n')
+
+    yolo_blocks = find_yolo_blocks(source_lines)
+
+    yolo_data = {
+        'yolo_blocks': yolo_blocks,
+        'yolo_count': len(yolo_blocks)
+    }
+
+    return yolo_data
+# sorry
+
+
+def yolo_file(filename):
+
+    repo = find_git_repo(filename)
 
     with open(filename, 'rb') as sourcefile:
-
-        yolo_blocks = find_yolo_blocks(sourcefile)
-        repo = find_git_repo(filename)
-
-        yolo_data = {
-            'yolo_blocks': yolo_blocks,
-            'yolo_count': len(yolo_blocks)
-        }
+        yolo_data = yolo(sourcefile)
+        yolo_blocks = yolo_data['yolo_blocks']
 
         if repo:
             blame_data = get_blame_data(repo, 'HEAD', filename)
@@ -65,15 +74,14 @@ def yolo(filename):
                                             for commit in blame_data.values()))
 
     return yolo_data
-# sorry
 
 
 # yolo, wip implementation
-def find_yolo_blocks(sourcefile):
+def find_yolo_blocks(source_lines):
 
     yolo_blocks = []
 
-    source_lines = enumerate(sourcefile, 1)
+    source_lines = enumerate(source_lines, 1)
 
     for line_number, source_line in source_lines:
 
