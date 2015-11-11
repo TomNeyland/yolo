@@ -1,6 +1,8 @@
 # yolo
 Yolo, sorry.
 
+TODO: Actually explain what yolo is
+
 
 Command line usage
 --------
