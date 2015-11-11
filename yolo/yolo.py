@@ -154,6 +154,7 @@ def is_sorry_tag(source_line):
     return SORRY_TAG_REGEX.match(source_line) is not None
 
 
+# yolo, this encoder is so verbose... its mostly proof of concept
 class GitObjectEncoder(json.JSONEncoder):
 
     def default(self, obj):
@@ -166,6 +167,7 @@ class GitObjectEncoder(json.JSONEncoder):
             return data
         else:
             return super(GitObjectEncoder, self).default(obj)
+# sorry
 
 
 if __name__ == '__main__':
