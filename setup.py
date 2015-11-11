@@ -60,7 +60,6 @@ setup(
     entry_points={
         'console_scripts': [
             # add cli scripts here in this form:
-            # 'evesso=evesso.cli:main',
             'yolo=yolo.yolo:main'
         ],
     },
